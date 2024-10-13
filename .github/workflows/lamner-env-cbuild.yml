@@ -1,4 +1,4 @@
-name: Build GraphCodeBERTEnvironment image
+name: Build LAMNEREnvironment image
 on:
   workflow_dispatch:
   push:
